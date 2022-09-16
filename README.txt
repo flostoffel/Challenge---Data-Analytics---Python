@@ -19,7 +19,7 @@ Instrucciones al usuario:
 
 ## Clonar este repositorio:
 
-    git clone COLOCAR NOMBRE REPO
+    git clone https://github.com/flostoffel/Challenge-Alkemy-Data-Analytics.git
 
 ### Instalar las librerias necesarias:
 
