@@ -2,8 +2,8 @@ from decouple import config
 
 #Configuracion para acceder a la base de datos:
 
-DB_HOST= 'localhost'
-DB_USER= 'postgres'
-DB_PORT= '5432'
-DB_PASSWORD= 'flofi0411'
-DB_NAME= 'postgres'
+DB_HOST= ''
+DB_USER= ''
+DB_PORT= ''
+DB_PASSWORD= ''
+DB_NAME= ''
